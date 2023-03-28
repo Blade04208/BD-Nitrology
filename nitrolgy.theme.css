@@ -1,3 +1,12 @@
+/**
+ * @name Nitrology
+ * @author Katplugged
+ * @version 0.0.3
+ * @description Fixes bugs that Nitro themes have :p
+ */
+
+
+
 :root {
   --bg-overlay-1: linear-gradient(rgb(var(--bg-overlay-color) / var(--bg-overlay-opacity-1)), rgb(var(--bg-overlay-color) / var(--bg-overlay-opacity-1))) fixed 0 0 / cover, var(--custom-theme-background) fixed 0 0 / cover;
   --bg-overlay-2: linear-gradient(rgb(var(--bg-overlay-color) / var(--bg-overlay-opacity-2)), rgb(var(--bg-overlay-color) / var(--bg-overlay-opacity-2))) fixed 0 0 / cover, var(--custom-theme-background) fixed 0 0 / cover;
